@@ -24,7 +24,7 @@ def get_team(teamurl):
     while n < len(team_game_list_items):
         thisweek = {}
         gamedate = team_game_list_items[n].contents[0]
-        thisweek['Date'] = datetime.date(2000+int(gamedate[6:8]),int(gamedate[0:2]),int(gamedate[3:5]))
+        thisweek['date'] = gamedate
         if team_game_list_items[n+1].contents[0] == '@ ':
             loc = 'A'
         else:
@@ -77,9 +77,6 @@ def get_team(teamurl):
         raw_winpct = 0
     return teamsch, raw_winpct, school_div, school_conf
 
-def search_opp_pct(name):
-    return
-
 # Opens the JSON file that connects name to URL
 with open('d1school.json') as json_data:
     team_list = json.load(json_data)
@@ -88,7 +85,6 @@ with open('d1school.json') as json_data:
 P5_conf = ['Atlantic Coast Conference','Big Ten Conference','Big 12 Conference','Southeastern Conference','Pac-12 Conference']
 G5_conf = ['Conference USA','Mid-American Conference','Mountain West Conference','Sun Belt Conference']
 AAC_conf = ['American Athletic Conference']
-#'FBS Independent'
 
 # Creating seperate lists for each division
 mega_list = []
@@ -96,37 +92,6 @@ p5_list = []
 g5_list = []
 aac_list = []
 fcs_list = []
-newlist = []
-
-for teams in team_list:
-    newlist.append(teams['name'])
-#    if teams['name'][0:3] == 'St.':
-#        name = teams['name']
-#        newlist.append(name)
-#    elif teams['name'] == 'South Fla.':
-#        name = 'South Florida'
-#        newlist.append(name)
-#    elif teams['name'] == 'Southern California':
-#        name = 'USC'
-#        newlist.append(name)
-#    elif teams['name'] == 'Central Florida':
-#        name = 'UCF'
-#        newlist.append(name)
-#    elif teams['name'] == 'Army':
-#        name = 'Army West Point'
-#        newlist.append(name)
-#    elif teams['name'] == 'Miami (Ohio)':
-#        name = 'Miami (OH)'
-#        newlist.append(name)
-#    elif teams['name'] == 'Albany (NY)':
-#        name = 'Albany'
-#        newlist.append(name)
-#    else:
-#        name = teams['name'].replace('St.','State')
-#        newlist.append(name)
-
-for k in range(0,len(newlist)):
-    team_list[k]['name'] = newlist[k]
 
 j = 1
 for team in team_list:
@@ -138,7 +103,6 @@ for team in team_list:
     current['Conf'] = got_team[3]
     current['Results'] = got_team[0]
     current['Raw Win Pct'] = got_team[1]
-#    mega_list.append(current)
     # Splitting into Divisions
     if current['Div'] == 'Div FBS':
         if current['Conf'] in P5_conf:
@@ -168,6 +132,23 @@ aac_teams = [team['Name'] for team in aac_list]
 g5_teams = [team['Name'] for team in g5_list]
 fcs_teams = [team['Name'] for team in fcs_list]
 
+with open('savefile.json','w') as fout:
+    json.dump(mega_list,fout)
+
+with open('savefile.json','w') as fout:
+    json.dump(mega_list,fout)
+
+with open('p5_teams.json','w') as fout:
+    json.dump(p5_teams,fout)
+
+with open('aac_teams.json','w') as fout:
+    json.dump(aac_teams,fout)
+
+with open('g5_teams.json','w') as fout:
+    json.dump(g5_teams,fout)
+
+with open('fcs_teams.json','w') as fout:
+    json.dump(fcs_teams,fout)
 
 end = time.time()
 print(end - start,'s')
