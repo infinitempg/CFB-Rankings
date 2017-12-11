@@ -39,7 +39,7 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 * d1_school.json: A JSON (modified from Devin Young's list) of all D1 (FBS/FCS) schools, linking their names on the NCAA.com website and their URLs
 * rankings.py: Obtains team, schedule, and result information from the NCAA.com website, and saves these in a JSON file.
 * savefile.json: A JSON file containing all information gathered from rankings.py
-* (division)_teams.json: A JSON file containing a list of teams in the specified conference/division
+* division_teams.json: A JSON file containing a list of teams in the specified conference/division
 * ranker.py: Calculates the overall PCT based on win quality, record, etc. described below.
 * testgraph.py: (WIP) Creates interactive graphs for each team
 
