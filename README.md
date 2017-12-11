@@ -76,3 +76,4 @@ As mentioned above, there is a provision to rate the AAC with a higher multiplie
 ## To-Do List
 * Analysis of ranking progression from Week 4 to present, creating interactive graphs for each team and allowing comparison of teams
 * Determining how neutral games are worked
+* Clean up code and add comments
