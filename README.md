@@ -34,6 +34,15 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 24|Oklahoma State|Big 12 Conference|0.703|9|3
 25|Washington State|Pac-12 Conference|0.698|9|3
 
+## Files
+
+* d1_school.json: A JSON (modified from Devin Young's list) of all D1 (FBS/FCS) schools, linking their names on the NCAA.com website and their URLs
+* rankings.py: Obtains team, schedule, and result information from the NCAA.com website, and saves these in a JSON file.
+* savefile.json: A JSON file containing all information gathered from rankings.py
+* (division)_teams.json: A JSON file containing a list of teams in the specified conference/division
+* ranker.py: Calculates the overall PCT based on win quality, record, etc. described below.
+* testgraph.py: (WIP) Creates interactive graphs for each team
+
 ## Calculations
 
 The [formula for PCT](/Images/Eqs/Raw_Pct.png "Raw Percentage Formula") is based on a combination of win quality (described more below) and the team's current record (taking into account the number of games played). It is then [normalized to a 0-1 scale](Images/Eqs/Norm_Pct.png "Normalized Percentage").
