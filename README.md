@@ -64,10 +64,15 @@ There is also a provision to change the multiplier for teams in the AAC (#POW6R)
 Lastly, the win quality is multiplied by a [season progression factor](/Images/Eqs/Season_Multiplier.png "Season Multiplier"). This helps shift weight towards more recent results, punishing harshly for late-season losses and being more lenient on early-season losses.
 
 The final formula:
-* [Home Win](/Images/Eqs/WQ_HW.png "Home Win")
-* [Home Loss](/Images/Eqs/WQ_HL.png "Home Loss")
-* [Away Win](/Images/Eqs/WQ_AW.png "Away Win")
-* [Away Loss](/Images/Eqs/WQ_AL.png "Away Loss")
+
+Home Win:
+![Home Win](/Images/Eqs/WQ_HW.png "Home Win")
+Home Loss:
+![Home Loss](/Images/Eqs/WQ_HL.png "Home Loss")
+Away Win:
+![Away Win](/Images/Eqs/WQ_AW.png "Away Win")
+Away Loss:
+![Away Loss](/Images/Eqs/WQ_AL.png "Away Loss")
 
 ## Analysis
 
