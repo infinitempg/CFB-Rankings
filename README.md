@@ -6,33 +6,33 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 ## Current Top 25
 *Updated as of 12/10/17*
 
-**#**|**Team**|**Conf**|**PCT**|**W**|**L**
-:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-1|Clemson|Atlantic Coast Conference|1.000|12|1
-2|Georgia|Southeastern Conference|0.997|12|1
-3|Oklahoma|Big 12 Conference|0.969|12|1
-4|Wisconsin|Big Ten Conference|0.926|12|1
-5|Alabama|Southeastern Conference|0.919|11|1
-6|Ohio State|Big Ten Conference|0.917|11|2
-7|UCF|American Athletic Conference|0.880|12|0
-8|USC|Pac-12 Conference|0.871|11|2
-9|Penn State|Big Ten Conference|0.855|10|2
-10|Auburn|Southeastern Conference|0.849|10|3
-11|Washington|Pac-12 Conference|0.822|10|2
-12|Miami (Fla.)|Atlantic Coast Conference|0.820|10|2
-13|Notre Dame|FBS Independent|0.790|9|3
-14|TCU|Big 12 Conference|0.753|10|3
-15|Stanford|Pac-12 Conference|0.750|9|4
-16|LSU|Southeastern Conference|0.749|9|3
-17|Michigan State|Big Ten Conference|0.745|9|3
-18|Northwestern|Big Ten Conference|0.737|9|3
-19|Memphis|American Athletic Conference|0.729|10|2
-20|Troy|Sun Belt Conference|0.724|10|2
-21|Florida Atlantic|Conference USA|0.715|10|3
-22|Virginia Tech|Atlantic Coast Conference|0.714|9|3
-23|San Diego State|Mountain West Conference|0.707|10|2
-24|Oklahoma State|Big 12 Conference|0.703|9|3
-25|Washington State|Pac-12 Conference|0.698|9|3
+| **#** | **Team** | **Conf** | **PCT** | **W** | **L** |
+|----|------------------|------------------------------|-------|----|---|
+| 1 | Alabama | Southeastern Conference | 1.000 | 13 | 1 |
+| 2 | Georgia | Southeastern Conference | 0.967 | 13 | 2 |
+| 3 | Wisconsin | Big Ten Conference | 0.962 | 13 | 1 |
+| 4 | Ohio State | Big Ten Conference | 0.948 | 12 | 2 |
+| 5 | Clemson | Atlantic Coast Conference | 0.930 | 12 | 2 |
+| 6 | UCF | American Athletic Conference | 0.917 | 13 | 0 |
+| 7 | Oklahoma | Big 12 Conference | 0.908 | 12 | 2 |
+| 8 | Penn State | Big Ten Conference | 0.891 | 11 | 2 |
+| 9 | Notre Dame | FBS Independent | 0.818 | 10 | 3 |
+| 10 | USC | Pac-12 Conference | 0.807 | 11 | 3 |
+| 11 | Michigan State | Big Ten Conference | 0.794 | 10 | 3 |
+| 12 | Auburn | Southeastern Conference | 0.788 | 10 | 4 |
+| 13 | TCU | Big 12 Conference | 0.783 | 11 | 3 |
+| 14 | Northwestern | Big Ten Conference | 0.774 | 10 | 3 |
+| 15 | Miami (Fla.) | Atlantic Coast Conference | 0.766 | 10 | 3 |
+| 16 | Washington | Pac-12 Conference | 0.759 | 10 | 3 |
+| 17 | Troy | Sun Belt Conference | 0.751 | 11 | 2 |
+| 18 | Oklahoma State | Big 12 Conference | 0.749 | 10 | 3 |
+| 19 | Florida Atlantic | Conference USA | 0.738 | 11 | 3 |
+| 20 | Boise State | Mountain West Conference | 0.726 | 11 | 3 |
+| 21 | South Florida | American Athletic Conference | 0.704 | 10 | 2 |
+| 22 | LSU | Southeastern Conference | 0.693 | 9 | 4 |
+| 23 | NC State | Atlantic Coast Conference | 0.690 | 9 | 4 |
+| 24 | Stanford | Pac-12 Conference | 0.685 | 9 | 5 |
+| 25 | Army West Point | FBS Independent | 0.683 | 10 | 3 |
 
 ## Files
 
