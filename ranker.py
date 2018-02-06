@@ -32,9 +32,6 @@ def enter_game(teamname,game_num,result,teamscore,oppscore,wins,losses):
     mega_list[i]['Results'][game_num]['wins'] = str(wins)
     mega_list[i]['Results'][game_num]['losses'] = str(losses)
 
-enter_game('Army West Point',-1,'W','14','13','9','3')
-enter_game('Navy',-1,'L','13','14','6','6')
-
 def deleteaboveweek(dateofweek):
     for team in mega_list:
         for n in range(len(team['Results'])-1,-1,-1):
@@ -42,7 +39,7 @@ def deleteaboveweek(dateofweek):
                 del team['Results'][n]
     return mega_list
 
-def get_ranks(mega_list,weeknum):
+def get_ranks(mega_list,weeknum,aac_mult):
     for team in mega_list:
         win_q_list = []
         try:
@@ -62,7 +59,7 @@ def get_ranks(mega_list,weeknum):
             if game['opp'] in p5_teams:
                 divmult = 1.0
             elif game['opp'] in aac_teams:
-                divmult = 0.5
+                divmult = aac_mult
             elif game['opp'] in g5_teams:
                 divmult = 0.5
             elif game['opp'] in fcs_teams:
@@ -137,7 +134,7 @@ def get_ranks(mega_list,weeknum):
 
     print('------------------------------------------')
 
-    myFile = open('rankings_w%s.csv'%str(weeknum+1),'w',newline='')
+    myFile = open('rankings_w%s%s.csv'%(str(weeknum+1),str(aac_mult*100)),'w',newline='')
     myFile.write('Team,Conf,PCT,W,L\n')
     with myFile:
         writer = csv.writer(myFile)
@@ -159,7 +156,8 @@ dates = [datetime.date(2017, 9, 7),
  datetime.date(2017, 12, 9),
  datetime.date(2017, 12, 16)]
 
-get_ranks(mega_list,16)
+get_ranks(mega_list,17,0.75)
+get_ranks(mega_list,17,0.5)
 
 # for weeknum in range(16,2,-1):
 #    print('WEEK %s RANKINGS'%str(weeknum+1),'('+str(dates[weeknum-2])+')')

@@ -1,0 +1,131 @@
+Team,Conf,PCT,W,L
+Alabama,Southeastern Conference,1.0,13,1
+Georgia,Southeastern Conference,0.9665610468683701,13,2
+Wisconsin,Big Ten Conference,0.9622702128661843,13,1
+Ohio State,Big Ten Conference,0.9483301014452121,12,2
+Clemson,Atlantic Coast Conference,0.9303720985306051,12,2
+UCF,American Athletic Conference,0.916762748136918,13,0
+Oklahoma,Big 12 Conference,0.9083068593382517,12,2
+Penn State,Big Ten Conference,0.8914824150296732,11,2
+Notre Dame,FBS Independent,0.8184769879071558,10,3
+USC,Pac-12 Conference,0.8070633368609097,11,3
+Michigan State,Big Ten Conference,0.7942943758519698,10,3
+Auburn,Southeastern Conference,0.7878945054301761,10,4
+TCU,Big 12 Conference,0.7830167682882636,11,3
+Northwestern,Big Ten Conference,0.7736825405258305,10,3
+Miami (Fla.),Atlantic Coast Conference,0.765949120945379,10,3
+Washington,Pac-12 Conference,0.7590114334424737,10,3
+Troy,Sun Belt Conference,0.7512648808813949,11,2
+Oklahoma State,Big 12 Conference,0.7491558477656495,10,3
+Florida Atlantic,Conference USA,0.7379499450959822,11,3
+Boise State,Mountain West Conference,0.7261355112497406,11,3
+South Florida,American Athletic Conference,0.7038018317237404,10,2
+LSU,Southeastern Conference,0.6926870225464405,9,4
+NC State,Atlantic Coast Conference,0.6902809439491342,9,4
+Stanford,Pac-12 Conference,0.6852463794494236,9,5
+Army West Point,FBS Independent,0.6825817123125832,10,3
+Mississippi State,Southeastern Conference,0.6817785631645591,9,4
+South Carolina,Southeastern Conference,0.6729031428106934,9,4
+Memphis,American Athletic Conference,0.6708162706699264,10,3
+San Diego State,Mountain West Conference,0.6702385343062962,10,3
+Toledo,Mid-American Conference,0.6577059084837806,11,3
+Virginia Tech,Atlantic Coast Conference,0.6568337279421043,9,4
+Fresno State,Mountain West Conference,0.6480757082006221,10,4
+Iowa,Big Ten Conference,0.6472282048227861,8,5
+Washington State,Pac-12 Conference,0.6400736972548082,9,4
+Appalachian State,Sun Belt Conference,0.6082599565099116,9,4
+Ohio,Mid-American Conference,0.6048873541445428,9,4
+Michigan,Big Ten Conference,0.603388304079506,8,5
+Wake Forest,Atlantic Coast Conference,0.5963785145010895,8,5
+Louisville,Atlantic Coast Conference,0.590717241410189,8,5
+Iowa State,Big 12 Conference,0.5856536578687909,8,5
+Kansas State,Big 12 Conference,0.5854768779565879,8,5
+North Texas,Conference USA,0.5768009704940725,9,5
+Marshall,Conference USA,0.5450332124893532,8,5
+FIU,Conference USA,0.5392872289096641,8,5
+Purdue,Big Ten Conference,0.5306380321236194,7,6
+Florida State,Atlantic Coast Conference,0.5291572463864963,7,6
+Arizona State,Pac-12 Conference,0.5277340415791181,7,6
+UNI,Mid-American Conference,0.5265874855526724,8,5
+Texas,Big 12 Conference,0.5246170729711969,7,6
+Navy,American Athletic Conference,0.52384273088194,7,6
+Houston,American Athletic Conference,0.5176031976313417,7,5
+Boston College,Atlantic Coast Conference,0.5147693253347984,7,6
+Utah,Pac-12 Conference,0.5028248908982229,7,6
+Temple,American Athletic Conference,0.5027226726200774,7,6
+Wyoming,Mountain West Conference,0.5017347339156629,8,5
+Georgia State,Sun Belt Conference,0.5008802330739829,7,5
+Oregon,Pac-12 Conference,0.49765161049634915,7,6
+Central Mich.,Mid-American Conference,0.49669466329391493,8,5
+Texas A&M,Southeastern Conference,0.4936239616693142,7,6
+UAB,Conference USA,0.4897430072219434,8,5
+Arkansas State,Sun Belt Conference,0.48859941701804166,7,5
+Missouri,Southeastern Conference,0.48733920748138987,7,6
+Duke,Atlantic Coast Conference,0.4859307613985767,7,6
+SMU,American Athletic Conference,0.4826510624715019,7,6
+Louisiana Tech,Conference USA,0.48235173498607015,7,6
+West Virginia,Big 12 Conference,0.47993958130662046,7,6
+Southern Miss,Conference USA,0.4785154961645077,8,5
+Kentucky,Southeastern Conference,0.47720737808632974,7,6
+Western Mich.,Mid-American Conference,0.46919963563349687,6,6
+Arizona,Pac-12 Conference,0.4676281368927376,7,6
+Middle Tenn.,Conference USA,0.46089017110559927,7,6
+Mississippi,Southeastern Conference,0.459133654814056,6,6
+UTSA,Conference USA,0.4577569711687412,6,5
+Akron,Mid-American Conference,0.4542025562858623,7,7
+Buffalo,Mid-American Conference,0.45419353573248944,6,6
+Colorado State,Mountain West Conference,0.4528490862941726,7,6
+New Mexico State,Sun Belt Conference,0.44711687842243664,7,6
+UCLA,Pac-12 Conference,0.4380412006561002,6,7
+Georgia Tech,Atlantic Coast Conference,0.43768123884461935,5,6
+Texas Tech,Big 12 Conference,0.42076580061475044,6,7
+Eastern Mich.,Mid-American Conference,0.4145587305646044,5,7
+Utah State,Mountain West Conference,0.40753689829121237,6,7
+Tulane,American Athletic Conference,0.40459781745613127,5,7
+Air Force,Mountain West Conference,0.3956275234536638,5,7
+Pittsburgh,Atlantic Coast Conference,0.38125467145739944,5,7
+UNLV,Mountain West Conference,0.3802954221917935,5,7
+Indiana,Big Ten Conference,0.37700707580104104,5,7
+Virginia,Atlantic Coast Conference,0.3706720050065705,6,7
+Western Ky.,Conference USA,0.3662237771612871,6,7
+Miami (Ohio),Mid-American Conference,0.36076093362361095,5,7
+Minnesota,Big Ten Conference,0.35042789374358074,5,7
+California,Pac-12 Conference,0.347421015466947,5,7
+Vanderbilt,Southeastern Conference,0.3450093603195984,5,7
+Old Dominion,Conference USA,0.34380477758725625,5,7
+Florida,Southeastern Conference,0.3300854984805453,4,7
+Maryland,Big Ten Conference,0.32965193311439334,4,8
+La.-Lafayette,Sun Belt Conference,0.3235196081943575,5,7
+Cincinnati,American Athletic Conference,0.32152585649639953,4,8
+Nebraska,Big Ten Conference,0.31788695662173705,4,8
+Colorado,Pac-12 Conference,0.31670740650225876,5,7
+Idaho,Sun Belt Conference,0.3090976305968958,4,8
+Massachusetts,FBS Independent,0.3045980224034473,4,8
+South Alabama,Sun Belt Conference,0.30135685382703864,4,8
+La.-Monroe,Sun Belt Conference,0.2959082745790403,4,8
+Arkansas,Southeastern Conference,0.2943608604486049,4,8
+Nevada,Mountain West Conference,0.2903983386953542,3,9
+Syracuse,Atlantic Coast Conference,0.28194421969245864,4,8
+Rutgers,Big Ten Conference,0.2817350247009065,4,8
+BYU,FBS Independent,0.27837392824900736,4,9
+East Carolina,American Athletic Conference,0.2731126776510081,3,9
+Tennessee,Southeastern Conference,0.25149824133955884,4,8
+Coastal Caro.,Sun Belt Conference,0.24906150966036103,3,9
+New Mexico,Mountain West Conference,0.23631997478529435,3,9
+Bowling Green,Mid-American Conference,0.22929672927353126,2,10
+UConn,American Athletic Conference,0.21803921892770275,3,9
+Hawaii,Mountain West Conference,0.21690080135555323,3,9
+Tulsa,American Athletic Conference,0.21273043965247232,2,10
+North Carolina,Atlantic Coast Conference,0.20479153557610003,3,9
+Ga. Southern,Sun Belt Conference,0.2018343630140502,2,10
+Kent State,Mid-American Conference,0.19934011579721272,2,10
+Ball State,Mid-American Conference,0.18404223608784062,2,10
+Texas State,Sun Belt Conference,0.1787307386706368,2,10
+Charlotte,Conference USA,0.15414725464745271,1,11
+San Jose State,Mountain West Conference,0.13090973805945474,2,11
+Rice,Conference USA,0.11221183703982542,1,11
+Illinois,Big Ten Conference,0.09740513537615411,2,10
+Baylor,Big 12 Conference,0.07386003839942899,1,11
+UTEP,Conference USA,0.06487575922207961,0,12
+Kansas,Big 12 Conference,0.0218683192735104,1,11
+Oregon State,Pac-12 Conference,0.0,1,11
