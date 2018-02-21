@@ -76,7 +76,7 @@ Away Loss:
 
 ## Analysis
 
-As mentioned above, there is a provision to rate the AAC with a higher multiplier than other G5 teams. This would put UCF up to #4 in the rankings (and thus a theoretical playoff spot). There are also a lot more G5 teams represented in this ranking system than in the CFP Committee's rankings (which as we know has a strong bias against G5 teams). Lastly, this ranking system completely forgoes the Alabama/OSU 4th place fight by keeping Wisconsin in that slot, which I may not necessarily agree with.
+As mentioned above, there is a provision to rate the AAC with a higher multiplier than other G5 teams. This higher multiplier puts UCF at #4 prior to the CFP, and at #2 overall after the bowl games (with Alabama at #1). There are also a lot more G5 teams represented in this ranking system than in the CFP Committee's rankings (which as we know has a strong bias against G5 teams). Lastly, this ranking system completely skipped the Alabama/OSU 4th place CFP fight by keeping Wisconsin in that slot, which I may not necessarily agree with.
 
 ## To-Do List
 * Analysis of ranking progression from Week 4 to present, creating interactive graphs for each team and allowing comparison of teams
