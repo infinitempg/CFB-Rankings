@@ -6,33 +6,33 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 ## Current Top 25
 *Updated as of 2/5/2018*
 
-| #  | Team                       | Conf              | PCT         | W | L |
-|----|----------------------------|-------------------|-------------|---|---|
-| 1  | Alabama Crimson Tide       | SEC               | 1           | 4 | 0 |
-| 2  | Notre Dame Fighting Irish  | FBS Independents  | 0.834671193 | 4 | 0 |
-| 3  | Georgia Bulldogs           | SEC               | 0.82555444  | 4 | 0 |
-| 4  | Penn State Nittany Lions   | Big Ten           | 0.816788332 | 4 | 0 |
-| 5  | Kentucky Wildcats          | SEC               | 0.81345721  | 4 | 0 |
-| 6  | LSU Tigers                 | SEC               | 0.811879311 | 4 | 0 |
-| 7  | Stanford Cardinal          | Pac-12            | 0.791892583 | 4 | 0 |
-| 8  | Ohio State Buckeyes        | Big Ten           | 0.739427424 | 4 | 0 |
-| 9  | West Virginia Mountaineers | Big 12            | 0.738802433 | 3 | 0 |
-| 10 | Duke Blue Devils           | ACC               | 0.728893483 | 4 | 0 |
-| 11 | Clemson Tigers             | ACC               | 0.698582228 | 4 | 0 |
-| 12 | Texas Tech Red Raiders     | Big 12            | 0.687699267 | 3 | 1 |
-| 13 | Syracuse Orange            | ACC               | 0.67205988  | 4 | 0 |
-| 14 | Maryland Terrapins         | Big Ten           | 0.670137829 | 3 | 1 |
-| 15 | South Florida Bulls        | American Athletic | 0.666946316 | 4 | 0 |
-| 16 | Wisconsin Badgers          | Big Ten           | 0.65968668  | 3 | 1 |
-| 17 | South Carolina Gamecocks   | SEC               | 0.653836114 | 2 | 1 |
-| 18 | Buffalo Bulls              | Mid-American      | 0.649677083 | 4 | 0 |
-| 19 | Texas Longhorns            | Big 12            | 0.646191743 | 3 | 1 |
-| 20 | Oklahoma Sooners           | Big 12            | 0.643238863 | 4 | 0 |
-| 21 | BYU Cougars                | FBS Independents  | 0.632297461 | 3 | 1 |
-| 22 | Washington Huskies         | Pac-12            | 0.632063698 | 3 | 1 |
-| 23 | North Texas Mean Green     | Conference USA    | 0.606956914 | 4 | 0 |
-| 24 | California Golden Bears    | Pac-12            | 0.59994078  | 3 | 0 |
-| 25 | Auburn Tigers              | SEC               | 0.593551261 | 3 | 1 |
+| #  | Team                       | Conf              | PCT  | W | L |
+|----|----------------------------|-------------------|------|---|---|
+| 1  | Alabama Crimson Tide       | SEC               | 1.00 | 4 | 0 |
+| 2  | Notre Dame Fighting Irish  | FBS Independents  | 0.83 | 4 | 0 |
+| 3  | Georgia Bulldogs           | SEC               | 0.83 | 4 | 0 |
+| 4  | Penn State Nittany Lions   | Big Ten           | 0.82 | 4 | 0 |
+| 5  | Kentucky Wildcats          | SEC               | 0.81 | 4 | 0 |
+| 6  | LSU Tigers                 | SEC               | 0.81 | 4 | 0 |
+| 7  | Stanford Cardinal          | Pac-12            | 0.79 | 4 | 0 |
+| 8  | Ohio State Buckeyes        | Big Ten           | 0.74 | 4 | 0 |
+| 9  | West Virginia Mountaineers | Big 12            | 0.74 | 3 | 0 |
+| 10 | Duke Blue Devils           | ACC               | 0.73 | 4 | 0 |
+| 11 | Clemson Tigers             | ACC               | 0.70 | 4 | 0 |
+| 12 | Texas Tech Red Raiders     | Big 12            | 0.69 | 3 | 1 |
+| 13 | Syracuse Orange            | ACC               | 0.67 | 4 | 0 |
+| 14 | Maryland Terrapins         | Big Ten           | 0.67 | 3 | 1 |
+| 15 | South Florida Bulls        | American Athletic | 0.67 | 4 | 0 |
+| 16 | Wisconsin Badgers          | Big Ten           | 0.66 | 3 | 1 |
+| 17 | South Carolina Gamecocks   | SEC               | 0.65 | 2 | 1 |
+| 18 | Buffalo Bulls              | Mid-American      | 0.65 | 4 | 0 |
+| 19 | Texas Longhorns            | Big 12            | 0.65 | 3 | 1 |
+| 20 | Oklahoma Sooners           | Big 12            | 0.64 | 4 | 0 |
+| 21 | BYU Cougars                | FBS Independents  | 0.63 | 3 | 1 |
+| 22 | Washington Huskies         | Pac-12            | 0.63 | 3 | 1 |
+| 23 | North Texas Mean Green     | Conference USA    | 0.61 | 4 | 0 |
+| 24 | California Golden Bears    | Pac-12            | 0.60 | 3 | 0 |
+| 25 | Auburn Tigers              | SEC               | 0.59 | 3 | 1 |
 
 ## Files
 
