@@ -6,33 +6,33 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 ## Current Top 25
 *Updated as of 2/5/2018*
 
-| **#** | **Team** | **Conf** | **PCT** | **W** | **L** |
-|----|------------------|------------------------------|-------|----|---|
-| 1 | Alabama | Southeastern Conference | 1.000 | 13 | 1 |
-| 2 | Georgia | Southeastern Conference | 0.967 | 13 | 2 |
-| 3 | Wisconsin | Big Ten Conference | 0.962 | 13 | 1 |
-| 4 | Ohio State | Big Ten Conference | 0.948 | 12 | 2 |
-| 5 | Clemson | Atlantic Coast Conference | 0.930 | 12 | 2 |
-| 6 | UCF | American Athletic Conference | 0.917 | 13 | 0 |
-| 7 | Oklahoma | Big 12 Conference | 0.908 | 12 | 2 |
-| 8 | Penn State | Big Ten Conference | 0.891 | 11 | 2 |
-| 9 | Notre Dame | FBS Independent | 0.818 | 10 | 3 |
-| 10 | USC | Pac-12 Conference | 0.807 | 11 | 3 |
-| 11 | Michigan State | Big Ten Conference | 0.794 | 10 | 3 |
-| 12 | Auburn | Southeastern Conference | 0.788 | 10 | 4 |
-| 13 | TCU | Big 12 Conference | 0.783 | 11 | 3 |
-| 14 | Northwestern | Big Ten Conference | 0.774 | 10 | 3 |
-| 15 | Miami (Fla.) | Atlantic Coast Conference | 0.766 | 10 | 3 |
-| 16 | Washington | Pac-12 Conference | 0.759 | 10 | 3 |
-| 17 | Troy | Sun Belt Conference | 0.751 | 11 | 2 |
-| 18 | Oklahoma State | Big 12 Conference | 0.749 | 10 | 3 |
-| 19 | Florida Atlantic | Conference USA | 0.738 | 11 | 3 |
-| 20 | Boise State | Mountain West Conference | 0.726 | 11 | 3 |
-| 21 | South Florida | American Athletic Conference | 0.704 | 10 | 2 |
-| 22 | LSU | Southeastern Conference | 0.693 | 9 | 4 |
-| 23 | NC State | Atlantic Coast Conference | 0.690 | 9 | 4 |
-| 24 | Stanford | Pac-12 Conference | 0.685 | 9 | 5 |
-| 25 | Army West Point | FBS Independent | 0.683 | 10 | 3 |
+| #  | Team                       | Conf              | PCT         | W | L |
+|----|----------------------------|-------------------|-------------|---|---|
+| 1  | Alabama Crimson Tide       | SEC               | 1           | 4 | 0 |
+| 2  | Notre Dame Fighting Irish  | FBS Independents  | 0.834671193 | 4 | 0 |
+| 3  | Georgia Bulldogs           | SEC               | 0.82555444  | 4 | 0 |
+| 4  | Penn State Nittany Lions   | Big Ten           | 0.816788332 | 4 | 0 |
+| 5  | Kentucky Wildcats          | SEC               | 0.81345721  | 4 | 0 |
+| 6  | LSU Tigers                 | SEC               | 0.811879311 | 4 | 0 |
+| 7  | Stanford Cardinal          | Pac-12            | 0.791892583 | 4 | 0 |
+| 8  | Ohio State Buckeyes        | Big Ten           | 0.739427424 | 4 | 0 |
+| 9  | West Virginia Mountaineers | Big 12            | 0.738802433 | 3 | 0 |
+| 10 | Duke Blue Devils           | ACC               | 0.728893483 | 4 | 0 |
+| 11 | Clemson Tigers             | ACC               | 0.698582228 | 4 | 0 |
+| 12 | Texas Tech Red Raiders     | Big 12            | 0.687699267 | 3 | 1 |
+| 13 | Syracuse Orange            | ACC               | 0.67205988  | 4 | 0 |
+| 14 | Maryland Terrapins         | Big Ten           | 0.670137829 | 3 | 1 |
+| 15 | South Florida Bulls        | American Athletic | 0.666946316 | 4 | 0 |
+| 16 | Wisconsin Badgers          | Big Ten           | 0.65968668  | 3 | 1 |
+| 17 | South Carolina Gamecocks   | SEC               | 0.653836114 | 2 | 1 |
+| 18 | Buffalo Bulls              | Mid-American      | 0.649677083 | 4 | 0 |
+| 19 | Texas Longhorns            | Big 12            | 0.646191743 | 3 | 1 |
+| 20 | Oklahoma Sooners           | Big 12            | 0.643238863 | 4 | 0 |
+| 21 | BYU Cougars                | FBS Independents  | 0.632297461 | 3 | 1 |
+| 22 | Washington Huskies         | Pac-12            | 0.632063698 | 3 | 1 |
+| 23 | North Texas Mean Green     | Conference USA    | 0.606956914 | 4 | 0 |
+| 24 | California Golden Bears    | Pac-12            | 0.59994078  | 3 | 0 |
+| 25 | Auburn Tigers              | SEC               | 0.593551261 | 3 | 1 |
 
 ## Files
 
