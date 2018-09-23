@@ -41,6 +41,7 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 * savefile.json: A JSON file containing all information gathered from rankings.py
 * division_teams.json: A JSON file containing a list of teams in the specified conference/division
 * ranker.py: Calculates the overall PCT based on win quality, record, etc. described below.
+* rankings_\*.xlsx: Contains the rankings (where the \* is the AAC multiplier) throughout the season.
 
 ## Calculations
 
