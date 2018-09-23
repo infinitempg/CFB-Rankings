@@ -36,12 +36,11 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 
 ## Files
 
-* d1_school.json: A JSON (modified from Devin Young's list) of all D1 (FBS/FCS) schools, linking their names on the NCAA.com website and their URLs
-* rankings.py: Obtains team, schedule, and result information from the NCAA.com website, and saves these in a JSON file.
+* id_list.json: A JSON that matches all FBS teams to their ESPN ID
+* rankings.py: Obtains team, schedule, and result information from ESPN, and saves these in a JSON file.
 * savefile.json: A JSON file containing all information gathered from rankings.py
 * division_teams.json: A JSON file containing a list of teams in the specified conference/division
 * ranker.py: Calculates the overall PCT based on win quality, record, etc. described below.
-* testgraph.py: (WIP) Creates interactive graphs for each team
 
 ## Calculations
 
@@ -74,11 +73,8 @@ Away Win:
 Away Loss:
 ![Away Loss](/Images/Eqs/WQ_AL.png "Away Loss")
 
-## Analysis
-
-As mentioned above, there is a provision to rate the AAC with a higher multiplier than other G5 teams. This higher multiplier puts UCF at #4 prior to the CFP, and at #2 overall after the bowl games (with Alabama at #1). There are also a lot more G5 teams represented in this ranking system than in the CFP Committee's rankings (which as we know has a strong bias against G5 teams). Lastly, this ranking system completely skipped the Alabama/OSU 4th place CFP fight by keeping Wisconsin in that slot, which I may not necessarily agree with.
+Neutral games are treated as home games.
 
 ## To-Do List
 * Analysis of ranking progression from Week 4 to present, creating interactive graphs for each team and allowing comparison of teams
-* Determining how neutral games are worked
 * Clean up code and add comments
