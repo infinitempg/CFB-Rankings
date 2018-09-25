@@ -5,7 +5,8 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 
 ## Current Top 25
 *Updated as of 9/25/2018*
-See full rankings [here](https://github.com/infinitempg/CFB-Rankings/blob/master/Rankings_75_W5.md)
+
+*See full rankings [here](https://github.com/infinitempg/CFB-Rankings/blob/master/Rankings_75_W5.md).*
 
 | #  | Team                       | Conf              | PCT   | W | L |
 |----|----------------------------|-------------------|-------|---|---|
