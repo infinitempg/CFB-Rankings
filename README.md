@@ -4,7 +4,8 @@
 This ranking system takes inspiration from [Devin Young](http://www.devinyoungweb.com/blog/cfb-rankings-the-right-way).
 
 ## Current Top 25
-*Updated as of 2/5/2018*
+*Updated as of 9/25/2018*
+See full rankings [here](https://github.com/infinitempg/CFB-Rankings/blob/master/Rankings_75_W5.md)
 
 | #  | Team                       | Conf              | PCT   | W | L |
 |----|----------------------------|-------------------|-------|---|---|
