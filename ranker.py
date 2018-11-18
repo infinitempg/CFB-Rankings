@@ -40,7 +40,7 @@ with open('fcs_teams.json') as json_data:
 #                 del team['Results'][n]
 #     return mega_list
 
-def get_ranks(mega_list,weeknum,aac_mult):
+def get_ranks(mega_list,weeknum,aac_mult,g5_mult):
     for team in mega_list:
         win_q_list = []
         try:
@@ -62,7 +62,7 @@ def get_ranks(mega_list,weeknum,aac_mult):
             elif game['opp_id'] in aac_teams:
                 divmult = aac_mult
             elif game['opp_id'] in g5_teams:
-                divmult = 0.5
+                divmult = g5_mult
             else:
                 divmult = 0.15
     #            if game['opp'] == 'Notre Dame':
@@ -161,8 +161,8 @@ def get_ranks(mega_list,weeknum,aac_mult):
 #  datetime.date(2017, 12, 9),
 #  datetime.date(2017, 12, 16)]
 
-get_ranks(mega_list,4,0.75)
-get_ranks(mega_list,4,0.5)
+get_ranks(mega_list,4,0.75,0.5)
+get_ranks(mega_list,4,0.5,0.5)
 
 # for weeknum in range(16,2,-1):
 #    print('WEEK %s RANKINGS'%str(weeknum+1),'('+str(dates[weeknum-2])+')')

@@ -1,0 +1,131 @@
+Team,Conf,PCT,W,L
+Clemson Tigers,ACC,1.0,10,0
+Alabama Crimson Tide,SEC,0.9782662411928329,10,0
+Notre Dame Fighting Irish,FBS Independents,0.9413832135511534,10,0
+Georgia Bulldogs,SEC,0.8898541277394192,9,1
+Michigan Wolverines,Big Ten,0.8673798687494804,9,1
+West Virginia Mountaineers,Big 12,0.8213757719426782,8,1
+Oklahoma Sooners,Big 12,0.8139650176417893,9,1
+Washington State Cougars,Pac-12,0.8074028838716863,9,1
+Ohio State Buckeyes,Big Ten,0.7903603976736999,9,1
+LSU Tigers,SEC,0.7585443837297049,8,2
+Syracuse Orange,ACC,0.6707668726575015,8,2
+Penn State Nittany Lions,Big Ten,0.6683610314916529,7,3
+UCF Knights,American Athletic,0.6636199476943304,9,0
+Texas Longhorns,Big 12,0.6561980806611788,7,3
+Iowa State Cyclones,Big 12,0.6489199818779664,6,3
+Florida Gators,SEC,0.6474826915926559,7,3
+Utah Utes,Pac-12,0.6367964267728469,7,3
+Pittsburgh Panthers,ACC,0.6311336398878582,6,4
+Northwestern Wildcats,Big Ten,0.6291992400459989,6,4
+Kentucky Wildcats,SEC,0.6154521365469786,7,3
+Washington Huskies,Pac-12,0.610929123778057,7,3
+Cincinnati Bearcats,American Athletic,0.60465448292849,9,1
+Buffalo Bulls,Mid-American,0.6019329094283559,9,1
+UAB Blazers,Conference USA,0.594573012219822,9,1
+Utah State Aggies,Mountain West,0.5764433085924692,9,1
+Boston College Eagles,ACC,0.5757592872371969,7,3
+Duke Blue Devils,ACC,0.5752054809564375,7,3
+Troy Trojans,Sun Belt,0.5684790094868741,8,2
+Michigan State Spartans,Big Ten,0.5632672687937221,6,4
+South Florida Bulls,American Athletic,0.5598016651840975,7,3
+NC State Wolfpack,ACC,0.5565851175151827,6,3
+Texas A&M Aggies,SEC,0.5436761755048188,6,4
+Arizona State Sun Devils,Pac-12,0.5406016093328125,6,4
+Fresno State Bulldogs,Mountain West,0.5401231081553859,8,2
+Stanford Cardinal,Pac-12,0.5396661787523513,6,4
+Virginia Cavaliers,ACC,0.536459044221353,7,3
+Missouri Tigers,SEC,0.5344336507129668,6,4
+Army Knights,FBS Independents,0.5305146476270264,8,2
+Georgia Tech Yellow Jackets,ACC,0.525902602261977,6,4
+Mississippi State Bulldogs,SEC,0.5227260604292078,6,4
+North Texas Mean Green,Conference USA,0.5218267135440935,7,3
+Boise State Broncos,Mountain West,0.5210367943872597,8,2
+San Diego State Aztecs,Mountain West,0.5195110816166123,7,3
+Purdue Boilermakers,Big Ten,0.5193965551052937,5,5
+Appalachian State Mountaineers,Sun Belt,0.5146237019675027,7,2
+Auburn Tigers,SEC,0.512259827708199,6,4
+South Carolina Gamecocks,SEC,0.5106803816086111,5,4
+Houston Cougars,American Athletic,0.5092566444987269,7,3
+Georgia Southern Eagles,Sun Belt,0.5082859146510785,7,3
+Wisconsin Badgers,Big Ten,0.5012499862725072,6,4
+Iowa Hawkeyes,Big Ten,0.497777715023525,6,4
+Temple Owls,American Athletic,0.47887378080253273,6,4
+Oregon Ducks,Pac-12,0.46979127935526277,6,4
+Middle Tennessee Blue Raiders,Conference USA,0.46873661569452485,7,3
+Eastern Michigan Eagles,Mid-American,0.4664268669782415,6,5
+Arkansas State Red Wolves,Sun Belt,0.4651423658667069,6,4
+Marshall Thundering Herd,Conference USA,0.46297080724456013,6,3
+Tennessee Volunteers,SEC,0.459123840811287,5,5
+Arizona Wildcats,Pac-12,0.4575239995795465,5,5
+Louisiana Tech Bulldogs,Conference USA,0.4566219071958733,7,3
+Florida Intl Golden Panthers,Conference USA,0.4526895688312177,7,3
+Ohio Bobcats,Mid-American,0.4494483116752719,6,4
+Western Michigan Broncos,Mid-American,0.4480222212809085,6,4
+California Golden Bears,Pac-12,0.4465031761496187,6,4
+Hawai'i Rainbow Warriors,Mountain West,0.443570591474521,6,5
+Nevada Wolf Pack,Mountain West,0.43915504536348055,6,4
+BYU Cougars,FBS Independents,0.43743165669658474,5,5
+Northern Illinois Huskies,Mid-American,0.4327913719177857,7,3
+USC Trojans,Pac-12,0.4305835988622654,5,5
+Memphis Tigers,American Athletic,0.4297301410244946,6,4
+Texas Tech Red Raiders,Big 12,0.41843319888234676,5,5
+Baylor Bears,Big 12,0.4174840408090906,5,5
+Maryland Terrapins,Big Ten,0.4168874831936267,5,5
+Florida Atlantic Owls,Conference USA,0.4156873081092614,5,5
+Akron Zips,Mid-American,0.41502394336219506,4,5
+Wake Forest Demon Deacons,ACC,0.4145012527317711,5,5
+Coastal Carolina Chanticleers,Sun Belt,0.3967716074658735,5,5
+Louisiana Ragin' Cajuns,Sun Belt,0.3951996134338029,5,5
+UL Monroe Warhawks,Sun Belt,0.393156570291823,6,4
+Toledo Rockets,Mid-American,0.3910237101255556,5,5
+Tulane Green Wave,American Athletic,0.38985883430837753,5,5
+Air Force Falcons,Mountain West,0.37885526829796345,4,6
+Virginia Tech Hokies,ACC,0.37864338553615573,4,5
+SMU Mustangs,American Athletic,0.37727464555613605,5,5
+Southern Mississippi Golden Eagles,Conference USA,0.37360901276578384,4,5
+Indiana Hoosiers,Big Ten,0.3707019220058769,5,5
+Liberty Flames,FBS Independents,0.3706709370935682,4,5
+Old Dominion Monarchs,Conference USA,0.3625391625758738,3,7
+Miami (OH) RedHawks,Mid-American,0.3484625992497729,4,6
+Wyoming Cowboys,Mountain West,0.3476930752250917,4,6
+Miami Hurricanes,ACC,0.34622031135522513,5,5
+Ole Miss Rebels,SEC,0.3442227650465087,5,5
+Oklahoma State Cowboys,Big 12,0.34413804680525945,5,5
+UMass Minutemen,FBS Independents,0.3407281375949746,4,7
+Charlotte 49ers,Conference USA,0.3396730817201568,4,6
+Florida State Seminoles,ACC,0.3288797424565466,4,6
+Minnesota Golden Gophers,Big Ten,0.328508707937001,5,5
+TCU Horned Frogs,Big 12,0.32117273578733835,4,6
+East Carolina Pirates,American Athletic,0.3211579623903304,2,7
+Colorado Buffaloes,Pac-12,0.3211417508750296,5,5
+New Mexico Lobos,Mountain West,0.31166585870566216,3,7
+UNLV Rebels,Mountain West,0.30987265593255175,3,7
+Kansas State Wildcats,Big 12,0.3057928450738696,4,6
+Ball State Cardinals,Mid-American,0.30408357611384873,3,7
+New Mexico State Aggies,FBS Independents,0.3040482768466615,3,7
+Colorado State Rams,Mountain West,0.29407976379299255,3,7
+Navy Midshipmen,American Athletic,0.2925681707292201,2,8
+Nebraska Cornhuskers,Big Ten,0.28774001540616906,3,7
+Texas State Bobcats,Sun Belt,0.28691401255398824,3,7
+Vanderbilt Commodores,SEC,0.2818469988563037,4,6
+Georgia State Panthers,Sun Belt,0.27207106291584493,2,8
+South Alabama Jaguars,Sun Belt,0.2599869471154223,2,8
+UTSA Roadrunners,Conference USA,0.2457444772335415,3,7
+UConn Huskies,American Athletic,0.2356579077418353,1,9
+UCLA Bruins,Pac-12,0.2239852245111836,2,8
+Illinois Fighting Illini,Big Ten,0.22352084304063177,4,6
+San Jose State Spartans,Mountain West,0.2210757804667975,1,9
+UTEP Miners,Conference USA,0.2187848580263474,1,9
+Tulsa Golden Hurricane,American Athletic,0.21531572449000402,2,8
+Kent State Golden Flashes,Mid-American,0.21065622122129188,2,8
+Bowling Green Falcons,Mid-American,0.20452826843759164,2,8
+Rice Owls,Conference USA,0.19484803273261828,1,10
+Western Kentucky Hilltoppers,Conference USA,0.18650720811035965,1,9
+Kansas Jayhawks,Big 12,0.1740995156940542,3,7
+Central Michigan Chippewas,Mid-American,0.1538273426554776,1,10
+Arkansas Razorbacks,SEC,0.13456159094581643,2,8
+Oregon State Beavers,Pac-12,0.13197415466099363,2,8
+Louisville Cardinals,ACC,0.11359029630989306,2,8
+North Carolina Tar Heels,ACC,0.10133151450590701,1,8
+Rutgers Scarlet Knights,Big Ten,0.0,1,9
