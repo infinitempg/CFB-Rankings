@@ -5,6 +5,15 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 
 Right now, the data is being scraped from ESPN. However, they recently changed their schedule page, so I will probably re-write from scratch (again) to get it to work with Massey Ratings or Sports-Reference.
 
+Actually, Sports-Reference would work.
+
+To do:
+
+1. Get correct link codes for all schools by going through https://www.sports-reference.com/cfb/conferences/
+2. Get output json to match `savefile.json` in new python script
+3. ???
+4. Profit
+
 ## Files
 
 * id_list.json: A JSON that matches all FBS teams to their ESPN ID
