@@ -3,38 +3,7 @@
 
 This ranking system takes inspiration from [Devin Young](http://www.devinyoungweb.com/blog/cfb-rankings-the-right-way).
 
-## Current Top 25
-*Updated as of 9/25/2018*
-
-*See full rankings [here](https://github.com/infinitempg/CFB-Rankings/blob/master/Rankings_75_W5.md).*
-
-| #  | Team                       | Conf              | PCT   | W | L |
-|----|----------------------------|-------------------|-------|---|---|
-| 1  | Alabama Crimson Tide       | SEC               | 1.000 | 4 | 0 |
-| 2  | Notre Dame Fighting Irish  | FBS Independents  | 0.835 | 4 | 0 |
-| 3  | Georgia Bulldogs           | SEC               | 0.826 | 4 | 0 |
-| 4  | Penn State Nittany Lions   | Big Ten           | 0.817 | 4 | 0 |
-| 5  | Kentucky Wildcats          | SEC               | 0.813 | 4 | 0 |
-| 6  | LSU Tigers                 | SEC               | 0.812 | 4 | 0 |
-| 7  | Stanford Cardinal          | Pac-12            | 0.792 | 4 | 0 |
-| 8  | Ohio State Buckeyes        | Big Ten           | 0.739 | 4 | 0 |
-| 9  | West Virginia Mountaineers | Big 12            | 0.739 | 3 | 0 |
-| 10 | Duke Blue Devils           | ACC               | 0.729 | 4 | 0 |
-| 11 | Clemson Tigers             | ACC               | 0.699 | 4 | 0 |
-| 12 | Texas Tech Red Raiders     | Big 12            | 0.688 | 3 | 1 |
-| 13 | Syracuse Orange            | ACC               | 0.672 | 4 | 0 |
-| 14 | Maryland Terrapins         | Big Ten           | 0.670 | 3 | 1 |
-| 15 | South Florida Bulls        | American Athletic | 0.667 | 4 | 0 |
-| 16 | Wisconsin Badgers          | Big Ten           | 0.660 | 3 | 1 |
-| 17 | South Carolina Gamecocks   | SEC               | 0.654 | 2 | 1 |
-| 18 | Buffalo Bulls              | Mid-American      | 0.650 | 4 | 0 |
-| 19 | Texas Longhorns            | Big 12            | 0.646 | 3 | 1 |
-| 20 | Oklahoma Sooners           | Big 12            | 0.643 | 4 | 0 |
-| 21 | BYU Cougars                | FBS Independents  | 0.632 | 3 | 1 |
-| 22 | Washington Huskies         | Pac-12            | 0.632 | 3 | 1 |
-| 23 | North Texas Mean Green     | Conference USA    | 0.607 | 4 | 0 |
-| 24 | California Golden Bears    | Pac-12            | 0.600 | 3 | 0 |
-| 25 | Auburn Tigers              | SEC               | 0.594 | 3 | 1 |
+Right now, the data is being scraped from ESPN. However, they recently changed their schedule page, so I will probably re-write from scratch (again) to get it to work with Massey Ratings or Sports-Reference.
 
 ## Files
 
