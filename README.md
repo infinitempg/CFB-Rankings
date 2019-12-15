@@ -7,6 +7,35 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 
 The data has been pulled from [collegefootballdata.com](https://collegefootballdata.com/). Thanks /u/BlueSCar from /r/CFBAnalysis!
 
+## Current Top 25
+|Rank|TEAM                 |PCT  |
+|----|---------------------|-----|
+|1   |Ohio State           |1.000|
+|2   |LSU                  |0.991|
+|3   |Clemson              |0.971|
+|4   |Oklahoma             |0.895|
+|5   |Oregon               |0.814|
+|6   |Georgia              |0.809|
+|7   |Utah                 |0.780|
+|8   |Notre Dame           |0.773|
+|9   |Memphis              |0.766|
+|10  |Baylor               |0.760|
+|11  |Appalachian State    |0.760|
+|12  |Boise State          |0.752|
+|13  |Penn State           |0.735|
+|14  |Wisconsin            |0.733|
+|15  |Florida              |0.725|
+|16  |Michigan             |0.713|
+|17  |Alabama              |0.686|
+|18  |Minnesota            |0.680|
+|19  |Navy                 |0.663|
+|20  |Air Force            |0.661|
+|21  |Iowa                 |0.653|
+|22  |Florida Atlantic     |0.648|
+|23  |Auburn               |0.642|
+|24  |SMU                  |0.636|
+|25  |Cincinnati           |0.619|
+
 ## Files
 
 * `CFB_rankings.ipynb` - The Jupyter notebook where the magic happens.
@@ -46,32 +75,3 @@ Away Loss:
 ![Away Loss](/Images/Eqs/WQ_AL.png "Away Loss")
 
 Neutral games are given a multiplier of 1.05.
-
-## Current Top 25
-|Rank|TEAM                 |PCT  |
-|----|---------------------|-----|
-|1   |Ohio State           |1.000|
-|2   |LSU                  |0.991|
-|3   |Clemson              |0.971|
-|4   |Oklahoma             |0.895|
-|5   |Oregon               |0.814|
-|6   |Georgia              |0.809|
-|7   |Utah                 |0.780|
-|8   |Notre Dame           |0.773|
-|9   |Memphis              |0.766|
-|10  |Baylor               |0.760|
-|11  |Appalachian State    |0.760|
-|12  |Boise State          |0.752|
-|13  |Penn State           |0.735|
-|14  |Wisconsin            |0.733|
-|15  |Florida              |0.725|
-|16  |Michigan             |0.713|
-|17  |Alabama              |0.686|
-|18  |Minnesota            |0.680|
-|19  |Navy                 |0.663|
-|20  |Air Force            |0.661|
-|21  |Iowa                 |0.653|
-|22  |Florida Atlantic     |0.648|
-|23  |Auburn               |0.642|
-|24  |SMU                  |0.636|
-|25  |Cincinnati           |0.619|
