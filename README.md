@@ -8,42 +8,37 @@ This ranking system takes inspiration from [Devin Young](http://www.devinyoungwe
 The data has been pulled from [collegefootballdata.com](https://collegefootballdata.com/). Thanks /u/BlueSCar from /r/CFBAnalysis!
 
 ## Current Top 25
-|Rank|TEAM                 |PCT  |
-|----|---------------------|-----|
-|1   |Ohio State           |1.000|
-|2   |LSU                  |0.991|
-|3   |Clemson              |0.971|
-|4   |Oklahoma             |0.895|
-|5   |Oregon               |0.814|
-|6   |Georgia              |0.809|
-|7   |Utah                 |0.780|
-|8   |Notre Dame           |0.773|
-|9   |Memphis              |0.766|
-|10  |Baylor               |0.760|
-|11  |Appalachian State    |0.760|
-|12  |Boise State          |0.752|
-|13  |Penn State           |0.735|
-|14  |Wisconsin            |0.733|
-|15  |Florida              |0.725|
-|16  |Michigan             |0.713|
-|17  |Alabama              |0.686|
-|18  |Minnesota            |0.680|
-|19  |Navy                 |0.663|
-|20  |Air Force            |0.661|
-|21  |Iowa                 |0.653|
-|22  |Florida Atlantic     |0.648|
-|23  |Auburn               |0.642|
-|24  |SMU                  |0.636|
-|25  |Cincinnati           |0.619|
+| Rank | Team              | PCT   | Record |
+|------|-------------------|-------|--------|
+| 1    | LSU               | 1.0   | (15-0) |
+| 2    | Clemson           | 0.869 | (14-1) |
+| 3    | Ohio State        | 0.831 | (13-1) |
+| 4    | Georgia           | 0.775 | (12-2) |
+| 5    | Oregon            | 0.763 | (12-2) |
+| 6    | Oklahoma          | 0.743 | (12-2) |
+| 7    | Notre Dame        | 0.723 | (11-2) |
+| 8    | Appalachian State | 0.705 | (13-1) |
+| 9    | Florida           | 0.691 | (11-2) |
+| 10   | Penn State        | 0.685 | (11-2) |
+| 11   | Alabama           | 0.666 | (11-2) |
+| 12   | Minnesota         | 0.657 | (11-2) |
+| 13   | Utah              | 0.643 | (11-3) |
+| 14   | Memphis           | 0.641 | (12-2) |
+| 15   | Navy              | 0.639 | (11-2) |
+| 16   | Iowa              | 0.63  | (10-3) |
+| 17   | Air Force         | 0.63  | (11-2) |
+| 18   | Baylor            | 0.625 | (11-3) |
+| 19   | Boise State       | 0.621 | (12-2) |
+| 20   | Florida Atlantic  | 0.61  | (11-3) |
+| 21   | Wisconsin         | 0.603 | (10-4) |
+| 22   | Cincinnati        | 0.592 | (11-3) |
+| 23   | Michigan          | 0.585 | (9-4)  |
+| 24   | Louisiana         | 0.582 | (11-3) |
+| 25   | UCF               | 0.544 | (10-3) |
 
-## Files
+## Historical Rankings
 
-* `CFB_rankings.ipynb` - The Jupyter notebook where the magic happens.
-* `2019/2019schedule.json` - The JSON returned from [collegefootballdata.com](https://collegefootballdata.com) for all 2019 games. Does not include post season currently.
-* `code_testing.ipynb` - A little playground for making sure things work.
-* `old code` - Code used to generate 2018 and previous rankings.
-
-Rankings from W4 to W15 of the 2019 season can be found in CSV format in the `2019` folder.
+You can view rankings (in this system) for all seasons from 1990 to the present! There are also graphs describing each team's rank and score throughout the last 30 years.
 
 ## Calculations
 
